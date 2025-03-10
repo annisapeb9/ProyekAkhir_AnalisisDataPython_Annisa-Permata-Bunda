@@ -5,3 +5,4 @@ streamlit
 streamlit-option-menu
 babel
 urllib3
+plotly
